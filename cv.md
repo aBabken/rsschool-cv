@@ -1,3 +1,4 @@
+![alt-текст](https://i.ibb.co/C9xjzfr/photo-2022-09-12-17-41-04.jpg)
 1. Babken Asryan
 2. telegram: ababken, tel: +37494804604, skype: ababken
 3. I've been doing web development for about two years, I started self-taught, decided to start studying at the front-end from the beginning, I was studing for about a year, then I started to get stocks at the ukrainian Freelancehunt platform, where I already have about 70 completed reviews, I didn't work at office, but I think about it. I get only pleasure from work, I strive to learn as much technology as possible and develop my potential.
@@ -15,13 +16,13 @@
     }
   }
   return dateOfBirth
-}```
-```function evenOrOdd(str) {
+}
+function evenOrOdd(str) {
   const e = str.split('').filter(a=>+a%2==0).reduce((a,b)=>+a + +b, 0);
   const o = str.split('').filter(a=>+a%2!=0).reduce((a,b)=>+a + +b, 0);
   return (e > o) ? 'Even is greater than Odd' : (e < o) ? 'Odd is greater than Even' : 'Even and Odd are the same';
-}```
-```function evenOrOdd(str) {
+}
+function evenOrOdd(str) {
   const e = str.split('').filter(a=>+a%2==0).reduce((a,b)=>+a + +b, 0);
   const o = str.split('').filter(a=>+a%2!=0).reduce((a,b)=>+a + +b, 0);
   return (e > o) ? 'Even is greater than Odd' : (e < o) ? 'Odd is greater than Even' : 'Even and Odd are the same';
