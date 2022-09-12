@@ -16,20 +16,16 @@
   }
   return dateOfBirth
 }```
-```
-function evenOrOdd(str) {
+```function evenOrOdd(str) {
   const e = str.split('').filter(a=>+a%2==0).reduce((a,b)=>+a + +b, 0);
   const o = str.split('').filter(a=>+a%2!=0).reduce((a,b)=>+a + +b, 0);
   return (e > o) ? 'Even is greater than Odd' : (e < o) ? 'Odd is greater than Even' : 'Even and Odd are the same';
-}
-```
-```
-function evenOrOdd(str) {
+}```
+```function evenOrOdd(str) {
   const e = str.split('').filter(a=>+a%2==0).reduce((a,b)=>+a + +b, 0);
   const o = str.split('').filter(a=>+a%2!=0).reduce((a,b)=>+a + +b, 0);
   return (e > o) ? 'Even is greater than Odd' : (e < o) ? 'Odd is greater than Even' : 'Even and Odd are the same';
-}
-```
+}```
 6. My portfolio and reveiews is [here](https://freelancehunt.com/freelancer/ababken.html).
 7. I attend at master degree at National Polytechnic University of Armenia at second year "Information Security". Before that I attended Shushi University of Technology at "Information Technology".
 8. Upper Intermediate
