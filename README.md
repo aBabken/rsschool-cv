@@ -1,1 +1,1 @@
-https://aBabken.github.io/rsschool-cv/cv
+https://ababken.github.io/rsschool-cv/cv
